@@ -2,7 +2,7 @@
  * lm35.c
  *
  *  Created on: Jun 5, 2025
- *      Author: rahul
+ *      Author: Akash
  */
 
 #include "level_sensor.h"
